@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Rida Ali
-- 👀 I’m interested in learning Software Development
-- 🌱 I’m currently doing The Odin Project
+- 
 - 
 
 <!---
